@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ege</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egebagcivan&label=Profile%20views&color=0e75b6&style=flat" alt="egebagcivan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevege&label=Profile%20views&color=0e75b6&style=flat" alt="webdevege" /> </p>
 
-<p align="left"> <a href="https://twitter.com/egebagcivan" target="blank"><img src="https://img.shields.io/twitter/follow/egebagcivan?logo=twitter&style=for-the-badge" alt="egebagcivan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/webdevege" target="blank"><img src="https://img.shields.io/twitter/follow/webdevege?logo=twitter&style=for-the-badge" alt="egebagcivan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/egebagcivan](https://linktr.ee/egebagcivan)
 
@@ -13,10 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/egebagcivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egebagcivan" height="30" width="40" /></a>
+<a href="https://twitter.com/webdevege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevege" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/egebagcivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="egebagcivan" height="30" width="40" /></a>
-<a href="https://instagram.com/developerege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developerege" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/egebagcivan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="egebagcivan" height="30" width="40" /></a>
+<a href="https://instagram.com/webdevege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="webdevege" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
